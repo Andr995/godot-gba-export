@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.godot/
+build/
+saves/
+tools/gba/sdk/
+tools/gba/cache/
+tools/gba/mgba/
+tools/gba/installed.json

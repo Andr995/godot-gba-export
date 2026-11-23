@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "scope": "Standalone generic Godot editor addon only; no game, demo, assets or application backend",
+  "files": {
+    ".gdignore": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    ".gitattributes": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+    ".gitignore": "af2e6e6acf3655093c578a65c5eb995d88804c941d0bd1bf01b574e1cd96c96e",
+    "addons/gba_export/.gitignore": "32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b",
+    "addons/gba_export/assets.py": "ba56b558a4d8c60726a55e6424c32a8f8d97cbde4b583d1f7aa56a75d923043a",
+    "addons/gba_export/compiler.py": "df9c3716dc4be277c47850caad7202e561d973e2400ec418e0ddb2eb84949016",
+    "addons/gba_export/export_gba.py": "8e397b77e59e5eec653065891ea2c05997b92b697ef6f7bafc7c70abbfc76525",
+    "addons/gba_export/gdscript.py": "b2dfd1c5c6438c5b163a6957f82552d2943720fe1591e9c3985e231e5f219c09",
+    "addons/gba_export/plugin.cfg": "35a08eb0c27059529cfa3955d692fa377de0d39098765615d5b824dd1369119f",
+    "addons/gba_export/plugin.gd": "eab9d521b4281bc0fc8c0011785e31c6c45426bb67dffb0da0cf876b31ae87aa",
+    "addons/gba_export/plugin.gd.uid": "7cc6742c96a77b28b937292dd653ddf31dc3bdef16503426f61137cb1c6e93f7",
+    "addons/gba_export/README.md": "696994c762a001c1db8ad527200c69fbed7b7ea200191b56c8dcbc7f768b8327",
+    "addons/gba_export/runtime.c": "94d8bc5ec30b1386af99cc040dfaaaa2178156f15e0ad3ffb15a57941ff1dc64",
+    "addons/gba_export/runtime.h": "212ad681da076d897965bc610426636c2b08a18b5b36e0be08df2e5c52154942",
+    "addons/gba_export/scene.py": "a0db3f32ae1dfb36a6478fbeb603ab0afe2d92714d2b5e607ae3570e0000686d",
+    "addons/gba_export/setup_sdk.py": "533dc373aa4728d00e966ce9c79a930d51b7179fab1dd545d37d8a8e386e3874",
+    "LICENSE": "c25a6628c6af35f6fae2325acca1b51ce302c7f26e1ecdb315b79f261143bfc6",
+    "readme.md": "a8aa4cd82169e706f9322cbf634d1f40d19cc79108809c1c71c0732d703a05b9",
+    "VERIFICA.md": "761f57633a5c57bb7d67a64b5aece1c6617f962dd3754689ac0f05a18165414a"
+  }
+}
